@@ -16,6 +16,18 @@ This project generates synthetic e-commerce data, loads it into Snowflake, trans
 - Streamlit in Snowflake — analytics dashboard
 - Git and GitHub — version control
 
+## Architecture Overview
+
+The pipeline uses Python for data generation and ingestion,
+Snowflake for cloud data warehousing, dbt for SQL
+transformations and data quality testing, and Apache
+Airflow for workflow orchestration.
+
+Streamlit provides interactive sales analytics, while
+GitHub Actions validates code changes.
+
+![E-Commerce Data Pipeline Architecture](docs/screenshots/architecture.png)
+
 ## Pipeline Architecture
 
 ```text
