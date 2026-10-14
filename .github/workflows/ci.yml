@@ -1,0 +1,35 @@
+name: E-Commerce Pipeline CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate Python syntax
+        run: |
+          python -m py_compile scripts/*.py
+          python -m py_compile airflow/dags/*.py
+          python -m py_compile streamlit/*.py
+
+      - name: Validate Docker Compose configuration
+        env:
+          SNOWFLAKE_ACCOUNT: ci-placeholder
+          SNOWFLAKE_USER: ci-placeholder
+          SNOWFLAKE_PASSWORD: ci-placeholder
+          SNOWFLAKE_WAREHOUSE: ECOMMERCE_WH
+          SNOWFLAKE_DATABASE: ECOMMERCE_DB
+          SNOWFLAKE_ROLE: ECOMMERCE_DEVELOPER
+        run: |
+          docker compose config --quiet
