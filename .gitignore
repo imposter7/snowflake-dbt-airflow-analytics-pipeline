@@ -25,3 +25,11 @@ airflow/airflow.db
 # IDE
 .vscode/
 .idea/
+
+# Secrets and credentials
+.env
+.env.*
+!.env.example
+**/profiles.yml
+*.pem
+*.key
