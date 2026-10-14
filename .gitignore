@@ -1,0 +1,27 @@
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+.venv/
+profiles.yml
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# dbt generated files
+target/
+dbt_packages/
+logs/
+
+# Airflow
+airflow/logs/
+airflow/airflow.db
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/

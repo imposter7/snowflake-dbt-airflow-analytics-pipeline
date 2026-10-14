@@ -1,0 +1,201 @@
+product_id,product_name,category,unit_price
+1,Headphones 1,Electronics,373.36
+2,Blender 2,Home,78.37
+3,Headphones 3,Electronics,299.34
+4,Headphones 4,Electronics,55.91
+5,Lamp 5,Home,285.01
+6,Water Bottle 6,Sports,230.11
+7,T-Shirt 7,Clothing,381.82
+8,Chair 8,Home,176.72
+9,Blender 9,Home,479.03
+10,T-Shirt 10,Clothing,55.45
+11,Mouse 11,Electronics,425.27
+12,T-Shirt 12,Clothing,367.57
+13,Webcam 13,Electronics,48.61
+14,Jeans 14,Clothing,292.9
+15,Headphones 15,Electronics,334.02
+16,T-Shirt 16,Clothing,429.11
+17,Webcam 17,Electronics,146.21
+18,Jacket 18,Clothing,191.39
+19,Coffee Maker 19,Home,353.89
+20,Keyboard 20,Electronics,271.73
+21,Blender 21,Home,236.51
+22,Jacket 22,Clothing,345.46
+23,Keyboard 23,Electronics,412.68
+24,Sweater 24,Clothing,141.19
+25,Coffee Maker 25,Home,114.19
+26,Backpack 26,Sports,443.49
+27,Water Bottle 27,Sports,139.79
+28,Coffee Maker 28,Home,376.04
+29,Backpack 29,Sports,187.38
+30,Chair 30,Home,54.55
+31,Headphones 31,Electronics,84.89
+32,Chair 32,Home,302.24
+33,Backpack 33,Sports,301.99
+34,Dumbbells 34,Sports,485.83
+35,Headphones 35,Electronics,344.04
+36,Jeans 36,Clothing,64.66
+37,Water Bottle 37,Sports,232.32
+38,Jacket 38,Clothing,258.76
+39,Mouse 39,Electronics,422.42
+40,Blender 40,Home,193.22
+41,Lamp 41,Home,303.48
+42,Yoga Mat 42,Sports,64.82
+43,Jeans 43,Clothing,127.33
+44,Lamp 44,Home,51.97
+45,Yoga Mat 45,Sports,489.21
+46,Blender 46,Home,333.28
+47,Coffee Maker 47,Home,268.56
+48,Water Bottle 48,Sports,465.17
+49,Coffee Maker 49,Home,205.51
+50,Sweater 50,Clothing,450.81
+51,Yoga Mat 51,Sports,131.47
+52,Mouse 52,Electronics,20.31
+53,Blender 53,Home,13.52
+54,Keyboard 54,Electronics,43.03
+55,Mouse 55,Electronics,44.72
+56,Coffee Maker 56,Home,337.8
+57,Blender 57,Home,364.44
+58,Water Bottle 58,Sports,394.46
+59,Water Bottle 59,Sports,56.22
+60,Dumbbells 60,Sports,217.55
+61,Yoga Mat 61,Sports,339.95
+62,Headphones 62,Electronics,207.28
+63,T-Shirt 63,Clothing,131.84
+64,Chair 64,Home,78.69
+65,Coffee Maker 65,Home,236.69
+66,Webcam 66,Electronics,405.93
+67,Headphones 67,Electronics,329.55
+68,Headphones 68,Electronics,463.92
+69,Blender 69,Home,209.14
+70,Water Bottle 70,Sports,433.68
+71,Keyboard 71,Electronics,195.7
+72,Dumbbells 72,Sports,463.99
+73,Dumbbells 73,Sports,217.27
+74,Water Bottle 74,Sports,103.05
+75,Lamp 75,Home,293.8
+76,Mouse 76,Electronics,38.01
+77,Water Bottle 77,Sports,37.87
+78,Keyboard 78,Electronics,43.58
+79,Keyboard 79,Electronics,207.85
+80,Lamp 80,Home,313.5
+81,Dumbbells 81,Sports,468.01
+82,Coffee Maker 82,Home,126.96
+83,Water Bottle 83,Sports,339.13
+84,Sweater 84,Clothing,164.93
+85,Headphones 85,Electronics,234.56
+86,Headphones 86,Electronics,273.44
+87,Jacket 87,Clothing,467.3
+88,Keyboard 88,Electronics,191.07
+89,Chair 89,Home,418.54
+90,T-Shirt 90,Clothing,337.25
+91,T-Shirt 91,Clothing,470.08
+92,Coffee Maker 92,Home,66.56
+93,Keyboard 93,Electronics,143.45
+94,Coffee Maker 94,Home,109.76
+95,Sweater 95,Clothing,133.05
+96,Headphones 96,Electronics,320.8
+97,T-Shirt 97,Clothing,11.74
+98,Coffee Maker 98,Home,89.18
+99,Backpack 99,Sports,284.84
+100,Headphones 100,Electronics,473.07
+101,Lamp 101,Home,418.95
+102,Chair 102,Home,72.45
+103,Jeans 103,Clothing,450.5
+104,Mouse 104,Electronics,112.94
+105,Lamp 105,Home,183.3
+106,Water Bottle 106,Sports,463.62
+107,Blender 107,Home,488.34
+108,Chair 108,Home,22.15
+109,Sweater 109,Clothing,403.1
+110,Coffee Maker 110,Home,88.01
+111,Webcam 111,Electronics,437.36
+112,Water Bottle 112,Sports,107.79
+113,Dumbbells 113,Sports,159.54
+114,Blender 114,Home,21.6
+115,Chair 115,Home,170.85
+116,Mouse 116,Electronics,182.06
+117,Dumbbells 117,Sports,470.23
+118,Mouse 118,Electronics,97.5
+119,T-Shirt 119,Clothing,63.12
+120,Dumbbells 120,Sports,366.99
+121,Sweater 121,Clothing,307.04
+122,Webcam 122,Electronics,450.76
+123,Coffee Maker 123,Home,31.75
+124,Yoga Mat 124,Sports,264.76
+125,Coffee Maker 125,Home,221.34
+126,Jeans 126,Clothing,335.06
+127,Mouse 127,Electronics,258.49
+128,Dumbbells 128,Sports,207.18
+129,Jacket 129,Clothing,104.0
+130,Water Bottle 130,Sports,311.6
+131,Sweater 131,Clothing,278.49
+132,Mouse 132,Electronics,150.59
+133,Dumbbells 133,Sports,237.84
+134,Water Bottle 134,Sports,260.48
+135,Lamp 135,Home,149.06
+136,T-Shirt 136,Clothing,411.03
+137,Coffee Maker 137,Home,120.07
+138,Blender 138,Home,21.97
+139,Chair 139,Home,309.52
+140,Webcam 140,Electronics,213.08
+141,Chair 141,Home,252.24
+142,Blender 142,Home,331.47
+143,Headphones 143,Electronics,391.43
+144,Blender 144,Home,404.01
+145,Yoga Mat 145,Sports,283.13
+146,Webcam 146,Electronics,75.34
+147,Dumbbells 147,Sports,475.52
+148,Backpack 148,Sports,416.98
+149,Water Bottle 149,Sports,374.39
+150,Backpack 150,Sports,137.0
+151,Coffee Maker 151,Home,385.25
+152,Water Bottle 152,Sports,144.55
+153,Mouse 153,Electronics,124.9
+154,Jeans 154,Clothing,447.58
+155,Keyboard 155,Electronics,83.91
+156,Water Bottle 156,Sports,356.15
+157,Webcam 157,Electronics,209.72
+158,Backpack 158,Sports,40.51
+159,Backpack 159,Sports,453.37
+160,Webcam 160,Electronics,243.72
+161,Jeans 161,Clothing,379.2
+162,Water Bottle 162,Sports,249.23
+163,Sweater 163,Clothing,247.96
+164,Dumbbells 164,Sports,337.75
+165,Water Bottle 165,Sports,421.85
+166,Lamp 166,Home,454.4
+167,Headphones 167,Electronics,324.95
+168,Chair 168,Home,99.05
+169,Sweater 169,Clothing,170.4
+170,Dumbbells 170,Sports,175.38
+171,Dumbbells 171,Sports,378.48
+172,Dumbbells 172,Sports,419.11
+173,Yoga Mat 173,Sports,377.02
+174,Mouse 174,Electronics,119.87
+175,Headphones 175,Electronics,379.57
+176,Blender 176,Home,421.22
+177,Blender 177,Home,71.85
+178,Keyboard 178,Electronics,237.87
+179,Jeans 179,Clothing,92.22
+180,Keyboard 180,Electronics,482.71
+181,Headphones 181,Electronics,465.15
+182,Backpack 182,Sports,471.32
+183,Lamp 183,Home,300.13
+184,Lamp 184,Home,351.62
+185,T-Shirt 185,Clothing,400.15
+186,Mouse 186,Electronics,271.05
+187,T-Shirt 187,Clothing,257.92
+188,T-Shirt 188,Clothing,426.29
+189,Yoga Mat 189,Sports,222.43
+190,Sweater 190,Clothing,356.58
+191,Water Bottle 191,Sports,369.56
+192,Sweater 192,Clothing,237.79
+193,Jeans 193,Clothing,427.34
+194,Mouse 194,Electronics,442.0
+195,Chair 195,Home,289.23
+196,Dumbbells 196,Sports,24.06
+197,Jacket 197,Clothing,248.9
+198,Jeans 198,Clothing,176.77
+199,T-Shirt 199,Clothing,263.15
+200,Lamp 200,Home,128.26
